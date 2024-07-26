@@ -1,3 +1,15 @@
+/*
+   Fundacion Kinal
+   Centro educativo tecnico laboral Kinal
+   Quinto perito
+   Quinto electronica
+   Codigo Tecnico: EB5AV 
+   Curso: Taller de electronica digital y reparacion de computadoras I
+   Dev: Sebastian Enrique Lemus Salvador
+   Fecha: 26 de julio de 2024
+     
+*/
+
 #include <SoftwareSerial.h>
 
 int Tx = 5;
